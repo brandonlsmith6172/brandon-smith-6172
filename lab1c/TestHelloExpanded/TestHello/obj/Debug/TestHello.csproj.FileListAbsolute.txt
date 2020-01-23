@@ -1,0 +1,6 @@
+C:\Users\deyas\Desktop\Projects\ISTA 220\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\deyas\Desktop\Projects\ISTA 220\TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\deyas\Desktop\Projects\ISTA 220\TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\deyas\Desktop\Projects\ISTA 220\TestHello\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
+C:\Users\deyas\Desktop\Projects\ISTA 220\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\deyas\Desktop\Projects\ISTA 220\TestHello\TestHello\obj\Debug\TestHello.pdb

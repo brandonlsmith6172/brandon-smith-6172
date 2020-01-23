@@ -1,0 +1,40 @@
+Exercise 1
+
+2. The code does not build correctly and produces an error. This is because
+we tried to call the variable myInt with a Console.WriteLine, but myInt was
+not initialized with a value.
+
+5. The code does not build and an error occurs under line 17,
+float myFloat = 0.42f;. This occurs because in the line above the variable
+myFloat is already defined as a float in this scope.
+
+Exercise 2
+
+2. The code debugged without errors and launched a console application.
+The application wrote "Hello World!" and waiting for an input from the user.
+After an input is given the console then writes the number 5673. The variable
+i was given the value of d as an integer. Since d is defined as a double, the
+numbers at the decimal points are cut off, much like a remainder when using a
+% arithmetic operator.
+
+3. Changing double d to int d causes a syntax error because the value that is
+given to int d is not a whole number and cannot be defined as an int.
+
+8. I recieved the expected result of 542.12 as a double. I knew that it could
+not be converted into an int because the value itself was not a whole number.
+It also could not have been a long because a long is just a larger version of
+an int.
+
+exercise 3
+
+2.After clicking start without debugging, 8150, Marne Road, Ft Benning, GA 31905
+was printed to the console on one line. The Stringbuilder class is a part of
+the System.Text namespace and in our first line of code we were creating a
+new variable in the Stringbuilder class. Because of how the Stringbuilder class
+is created, we are able to define new variables to create a group of strings
+on a single line on the console without having to use additive arithmetic 
+operators.
+
+5. After hitting start without debugging, i recieved the expected results.
+The command line read that there were two matches of duplicate words, and then
+output the string on the next line.
